@@ -26,6 +26,6 @@
 ## Quick Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/0xsm0ky?style=for-the-badge&color=0066ff" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/0xsm0ky?style=for-the-badge&color=00ff99" alt="Repositories" />
+  <img src="https://img.shields.io/github/followers/0xsm0ky?style=for-the-badge&color=0066ff&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/0xsm0ky?style=for-the-badge&color=00ff99" alt="Stars" />
 </p>
