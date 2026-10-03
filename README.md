@@ -5,7 +5,7 @@
 # 0xSm0ky
 
 <p>
-    <a href="https://0xsm0ky.github.io">GitHub Pages</a>
+    <a href="https://0xsm0ky.github.io">GitHub Pages</a> •
     <a href="https://twitter.com/0xsm0ky">Twitter</a> •
   <a href="https://www.linkedin.com/in/hamza-dukhan/">Linkedin</a> •
 </p>
